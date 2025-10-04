@@ -69,6 +69,9 @@ En este proyecto, SQLite se utiliza para:
 2. **Definir y ejecutar consultas SQL** para agrupar, filtrar y consolidar los datos.
 3. **Servir como fuente de datos** para los gráficos generados en Python mediante la librería Plotly.
 
+La ejecución de la notebook principal **realiza automáticamente la creación y configuración de la base de datos SQLite**.  
+No es necesario ejecutar un paso adicional para generar la base de datos, ya que los datos del CSV se cargan, limpian y transforman dentro del mismo flujo de ejecución.
+
 ---
 
 ## Pasos para ejecutar el dashboard

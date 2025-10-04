@@ -19,6 +19,8 @@ El dashboard muestra información clave como:
 
 El objetivo es ofrecer una **herramienta de análisis visual** para tomar decisiones basadas en datos de facturación hospitalaria.
 
+El proyecto se encuentra disponible en la siguiente URL de Git: https://github.com/pciociano/TP2-Prog-Avanzada.
+
 ## Dataset Seleccionado
 
 El dataset utilizado en este proyecto corresponde al conjunto de datos públicos denominado  
@@ -94,7 +96,10 @@ notebook/TP2_Prog_Avanzada.ipynb
 **4. Visualizar el dashboard:**
 
 - Los gráficos se mostrarán directamente en la notebook
-- Se generará automáticamente el archivo HTML del dashboard completo en html/dashboard_facturacion.html
+- Se generará automáticamente el archivo HTML del dashboard completo en
+  ```bash
+  html/dashboard_facturacion.html
+  ```
 - Abrir el archivo HTML en cualquier navegador web para la visualización interactiva
 
 ---

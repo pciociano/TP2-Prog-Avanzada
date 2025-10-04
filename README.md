@@ -17,6 +17,18 @@ El dashboard muestra información clave como:
 
 El objetivo es ofrecer una **herramienta de análisis visual** para tomar decisiones basadas en datos de facturación hospitalaria.
 
+## Dataset Seleccionado
+
+Facturación de Hospitales Públicos de Gestión descentralizada
+
+Facturas pagas por prestaciones brindadas a Beneficiarios de Obras Sociales, del 5/1/2018 al 6/12/2018
+
+Ministerio de Salud. Superintendencia de Servicios de Salud.
+
+[https://datos.gob.ar/dataset/salud-facturacion-hospitales-publicos-gestion-descentralizada](https://datos.gob.ar/dataset/salud-facturacion-hospitales-publicos-gestion-descentralizada/archivo/salud_148185dd-d9ae-4b0c-ae79-4f8e7f0fc2d5)
+
+## Motor de base de datos 
+
 ---
 
 ## Estructura del proyecto
